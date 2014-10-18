@@ -8,6 +8,8 @@
     "require-dev": {
         "squizlabs/php_codesniffer": "1.*",
         "phpmd/phpmd": "*",
-        "codeception/codeception": "*"
+        "codeception/codeception": "*",
+        "codegyre/robo": "*",
+        "codeception/robo-paracept":"@dev"
     }
 }
